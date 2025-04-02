@@ -16,7 +16,7 @@ Nesten hver uke hører vi fantastiske nyheter om kunstig intelligens (KI). Den v
   <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/blog/more_data_more_compute.png" title="More data, more compute!" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
-    KI CEOer er besatt av regnekraft og investorpenger.
+    KI CEOer er besatt av regnekraft og investorpenger. (Kilde: KI-generert bilde chatgpt 4o)
     </div>
   </div>
 </div>
