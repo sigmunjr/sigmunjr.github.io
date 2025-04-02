@@ -49,6 +49,14 @@ table.table a {
   }
 }
 
+img.rounded-circle {
+  max-width: 200px;
+}
+
+.card-img {
+  min-width: 180px;
+}
+
 .table-dark {
   background-color: transparent;
   &.table-bordered {

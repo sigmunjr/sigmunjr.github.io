@@ -22,29 +22,29 @@
 
     <!-- Content -->
     <div class="container mt-5" role="main">
-      {% if page.toc and page.toc.sidebar %}
-        {% if page.toc.sidebar == 'right' %}
-          <div class="row">
-            <!-- main content area -->
-            <div class="col-sm-9">{{ content }}</div>
-            <!-- sidebar, which will move to the top on a small screen -->
-            <div class="col-sm-3">
-              <nav id="toc-sidebar" class="sticky-top"></nav>
-            </div>
-          </div>
-        {% else %}
-          <div class="row">
-            <!-- sidebar, which will move to the top on a small screen -->
-            <div class="col-sm-3">
-              <nav id="toc-sidebar" class="sticky-top"></nav>
-            </div>
-            <!-- main content area -->
-            <div class="col-sm-9">{{ content }}</div>
-          </div>
-        {% endif %}
-      {% else %}
+      {% comment %}{% if page.toc and page.toc.sidebar %}{% endcomment %}
+        {% comment %}{% if page.toc.sidebar == 'right' %}{% endcomment %}
+          {% comment %}<div class="row">{% endcomment %}
+            {% comment %}<!-- main content area -->{% endcomment %}
+            {% comment %}<div class="col-sm-9">{{ content }}</div>{% endcomment %}
+            {% comment %}<!-- sidebar, which will move to the top on a small screen -->{% endcomment %}
+            {% comment %}<div class="col-sm-3">{% endcomment %}
+              {% comment %}<nav id="toc-sidebar" class="sticky-top"></nav>{% endcomment %}
+            {% comment %}</div>{% endcomment %}
+          {% comment %}</div>{% endcomment %}
+        {% comment %}{% else %}{% endcomment %}
+          {% comment %}<div class="row">{% endcomment %}
+            {% comment %}<!-- sidebar, which will move to the top on a small screen -->{% endcomment %}
+            {% comment %}<div class="col-sm-3">{% endcomment %}
+              {% comment %}<nav id="toc-sidebar" class="sticky-top"></nav>{% endcomment %}
+            {% comment %}</div>{% endcomment %}
+            {% comment %}<!-- main content area -->{% endcomment %}
+            {% comment %}<div class="col-sm-9">{{ content }}</div>{% endcomment %}
+          {% comment %}</div>{% endcomment %}
+        {% comment %}{% endif %}{% endcomment %}
+      {% comment %}{% else %}{% endcomment %}
         {{ content }}
-      {% endif %}
+      {% comment %}{% endif %}{% endcomment %}
     </div>
 
     <!-- JavaScripts -->
