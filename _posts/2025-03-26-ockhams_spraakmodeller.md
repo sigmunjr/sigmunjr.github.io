@@ -2,7 +2,7 @@
 layout: post
 title: Ockhams barberkniv er en bærebjelke for store språkmodeller
 date: 2025-03-26 14:24:00
-description: I vitenskapen har det lenge vært en grunnregel at de enkleste forklaringene er de beste. 
+description: I vitenskapen har det lenge vært en grunnregel at de enkleste forklaringene er de beste, dette er også mekanismen som gjør at transformer modellene vi finner i ChatGPT fungerer. 
 thumbnail: assets/img/blog/ockham_kutter.png
 tags: transformere KI
 categories: teori
