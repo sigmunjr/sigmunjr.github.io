@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Rantehjørne # blog_name will be displayed in your blog page
+blog_name: Maskinranting # blog_name will be displayed in your blog page
 blog_description: En blogg hvor jeg ranter om maskinlæring og andre relaterte ting
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
