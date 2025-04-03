@@ -46,7 +46,7 @@ Under trening begynner modeller ofte med å lære grunnleggende mønstre, som hv
 
 ![][image1]
 <div class="caption">
-Ulike vekter fra modellen llama 2. Horisontalt vises første del av stningen, mens andre del vises vertikalt. Tallene viser hvilke ord i første del som var med å påvirke ordene i andre del. Det å være advokat har dårlig sammenheng med matlaging, mens "Palm Coast" hanger sammen med "golf". (Kilde: [Pytorch Captum](https://captum.ai/tutorials/Llama2_LLM_Attribution))
+Ulike vekter fra modellen llama 2. Horisontalt vises første del av stningen, mens andre del vises vertikalt. Tallene viser hvilke ord i første del som var med å påvirke ordene i andre del. Det å være advokat har dårlig sammenheng med matlaging, mens "Palm Coast" hanger sammen med "golf". (Kilde: <a href="https://captum.ai/tutorials/Llama2_LLM_Attribution">Pytorch Captum</a>)
 </div>
 
 ## Fra enkle mønstre til kompleks forståelse
@@ -60,7 +60,7 @@ Selv om modellene starter med det enkle, er de ikke begrenset til det. Transform
 ![][image2]![][image3]![][image4]  
 ![][image5]![][image6]![][image7]
 <div class="caption">
-Transformer modeller har vist at de også kan være veldig gode til å analysere bilder. I bildet over ser vi det DinoV2 fokuserer på når den skal forstå et bilde. Her også blir det viktig å kunne trekke ut det essensielle, avhengig av hvilke oppgave man skal gjøre. (Kilde: [DinoV2 artikkel](https://arxiv.org/abs/2304.07193))
+Transformer modeller har vist at de også kan være veldig gode til å analysere bilder. I bildet over ser vi det DinoV2 fokuserer på når den skal forstå et bilde. Her også blir det viktig å kunne trekke ut det essensielle, avhengig av hvilke oppgave man skal gjøre. (Kilde: <a href="https://arxiv.org/abs/2304.07193" target="_blank">DinoV2 artikkel</a>))
 </div>
 
 
