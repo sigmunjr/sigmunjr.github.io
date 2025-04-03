@@ -31,6 +31,31 @@ Likevel, bak disse imponerende prestasjonene skjuler det seg et fundamentalt pro
 
 Dette viser seg spesielt godt i det som kalles «hallusinasjoner», altså at modellen finner opp svar når den ikke vet bedre. Selv om nyere teknikker som forsterkningslæring og integrasjon med eksterne kilder (som internettsøk) har redusert problemet, er dette fortsatt en stor utfordring.
 
+Selv synes jeg ikke hallusinasjoner er så stort problem, men jeg irriterer meg over at KI genererte tekster ofte virker litt kjedelig og flate. 
+Ja, de kan legge inn både humor og et variert språk, men det er likevel noe som gjør at det blir litt kjedelig. Du kan jo vurdere selv, jeg spurte ChatGPT "Deep research" om å lage det jeg hadde tenkt å skrive om her. Her er promptet:
+
+
+<p style="margin: 50px">
+<i>
+Write a blog post or essay on what is currently lacking in AI, for it to be called human level AI. Write about strong and week points and discuss whether just scaling up current solutions will get us there.
+What are elements that AI cannot currently do. Who represents the different sides of the argument.
+
+Try to write it a bit edgy and though provoking, without going overboard. Just do not make it bland and boring.
+</i>
+
+så bad jeg den:
+<i>
+Kan du skrive en blog post på norsk basert på dette, du kan kutte ned en god del. Prøv å gjøre den morsom og spennende. Prøv å ha litt tydelige intensjoner, rød tråd og meninger.
+</i>
+</p>
+
+[Her kan du lese det den skrev!]({% post_url 2025-31-03-menneskelig_KI_av_KI %}).
+Jeg må egentlig si at det ble overraskende bra, jeg prøvde å bruke det beste tilgjengelige, først "Deep research" for å finne bakgrunn også ChatGPT 4.5 for å skrive teksten.
+Jeg mener at den tar litt feil på enkelte områder, spesielt med tanke på logikk og sunn fornuft.
+Jeg vet ikke hvor viktig det er at KI fakisk må vite hva "å falle" betyr, for at den skal være nyttig og jeg vet ikke om Sosial IQ faktisk handler om å føle noe, men å forstå hvordan andres følelser påvirker hvordan en burde interagere.
+Den største kritikken er kanskje at den "hoster opp" argumenter fra andre, e.g. Gary Marcus, uten å komme med noen ny vinkling.
+Dette gjelder jo kanskje mest hvis man allerede er dypt inne i litteraturen og allerede kan de kjente argumentene.
+
 ## **Slapp av, det er bare å skalere opp\!**
 
 Sam Altman, CEO i OpenAI, og mange av hans kolleger har et enkelt svar på hvordan vi skal få KI på nivå med mennesker: **Vi trenger bare å gjøre modellene større og kraftigere.** Dette perspektivet gir et klart veikart: mer data, flere parametere, mer beregningskraft \= smartere modeller. Denne «skaleringshypotesen» er enkel å forstå og, viktigst av alt, attraktiv for investorer fordi den antyder en lineær og forutsigbar utvikling. Men virkeligheten er sjelden så enkel.
