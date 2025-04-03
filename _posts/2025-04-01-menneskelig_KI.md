@@ -34,7 +34,6 @@ Dette viser seg spesielt godt i det som kalles «hallusinasjoner», altså at mo
 Selv synes jeg ikke hallusinasjoner er så stort problem, men jeg irriterer meg over at KI genererte tekster ofte virker litt kjedelig og flate. 
 Ja, de kan legge inn både humor og et variert språk, men det er likevel noe som gjør at det blir litt kjedelig. Du kan jo vurdere selv, jeg spurte ChatGPT "Deep research" om å lage det jeg hadde tenkt å skrive om her. Her er promptet:
 
-
 <p style="margin: 50px">
 <i>
 Write a blog post or essay on what is currently lacking in AI, for it to be called human level AI. Write about strong and week points and discuss whether just scaling up current solutions will get us there.

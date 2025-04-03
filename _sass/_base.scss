@@ -53,6 +53,11 @@ img.rounded-circle {
   max-width: 200px;
 }
 
+img {
+border-radius: .25rem !important;
+box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12) !important;
+}
+
 .card-img {
   min-width: 180px;
 }
