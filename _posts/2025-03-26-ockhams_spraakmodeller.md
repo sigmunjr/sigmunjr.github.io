@@ -10,9 +10,13 @@ categories: teori
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
+<p>
   I vitenskapen har det lenge vært en grunnregel at de enkleste forklaringene er de beste. Når en teori kan forklare noe med færrest mulig antakelser, regnes den som mer elegant – ja, noen ganger til og med vakker. Dette prinsippet kalles Ockhams barberkniv: alt som er unødvendig bør skjæres vekk.
+</p>
 
+<p>
   Selv Rema 1000 har fanget opp ideen med slagordet “Det enkle er ofte det beste”. Og kanskje er det ikke så overraskende at dette prinsippet – forenkling – også ligger til grunn for hvordan moderne kunstig intelligens fungerer?
+</p>
   </div>
 
   <div class="col-sm mt-3 mt-md-0">
