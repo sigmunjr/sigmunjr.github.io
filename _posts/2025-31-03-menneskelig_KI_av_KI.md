@@ -15,7 +15,7 @@ Jeg synes kanskje ikke poenget mitt kom veldig godt frem, men du kan jo dømme s
 Write a blog post or essay on what is currently lacking in AI, for it to be called human level AI. Write about strong and week points and discuss whether just scaling up current solutions will get us there.
 What are elements that AI cannot currently do. Who represents the different sides of the argument.
 
-Try to write it a bit edgy and though provoking, without going overboard. Just do not make it bland and boring.
+Try to write it a bit edgy and thought provoking, without going overboard. Just do not make it bland and boring.
 </i>
 
 så bad jeg den:
