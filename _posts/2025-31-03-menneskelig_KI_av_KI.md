@@ -10,19 +10,24 @@ categories: rant
 Mest for å illustrere at KI generert tekst fot blir kjedelig og flatt, så fikk jeg ChatGPT til å generere denne posten. 
 Jeg synes kanskje ikke poenget mitt kom veldig godt frem, men du kan jo dømme selv. Her er sånn jeg lagde posten:
 
-<p style="margin: 50px">
+<div style="margin: 50px">
+<p>
 <i>
 Write a blog post or essay on what is currently lacking in AI, for it to be called human level AI. Write about strong and week points and discuss whether just scaling up current solutions will get us there.
 What are elements that AI cannot currently do. Who represents the different sides of the argument.
 
 Try to write it a bit edgy and thought provoking, without going overboard. Just do not make it bland and boring.
 </i>
-
+</p>
+<p>
 så bad jeg den:
+</p>
+<p>
 <i>
-Kan du skrive en blog post på norsk basert på dette, du kan kutte ned en god del. Prøv å gjøre den morsom og spennende. Prøv å ha litt tydelige intensjoner, rød tråd og meninger. Generer figurer til og marker hvor de skal være og foreslå bildetekst.
+Kan du skrive en blog post på norsk basert på dette, du kan kutte ned en god del. Prøv å gjøre den morsom og spennende. Prøv å ha litt tydelige intensjoner, rød tråd og meninger. Generer figurer til og marker hvor de skal være.
 </i>
 </p>
+</div>
 
 ## Her begynner den generete teksten (den har også generert tittelen over på denne posten):
 

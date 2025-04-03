@@ -34,19 +34,24 @@ Dette viser seg spesielt godt i det som kalles «hallusinasjoner», altså at mo
 Selv synes jeg ikke hallusinasjoner er så stort problem, men jeg irriterer meg over at KI genererte tekster ofte virker litt kjedelig og flate. 
 Ja, de kan legge inn både humor og et variert språk, men det er likevel noe som gjør at det blir litt kjedelig. Du kan jo vurdere selv, jeg spurte ChatGPT "Deep research" om å lage det jeg hadde tenkt å skrive om her. Her er promptet:
 
-<p style="margin: 50px">
+<div style="margin: 50px">
+<p>
 <i>
 Write a blog post or essay on what is currently lacking in AI, for it to be called human level AI. Write about strong and week points and discuss whether just scaling up current solutions will get us there.
 What are elements that AI cannot currently do. Who represents the different sides of the argument.
 
 Try to write it a bit edgy and thought provoking, without going overboard. Just do not make it bland and boring.
 </i>
-
+</p>
+<p>
 så bad jeg den:
+</p>
+<p>
 <i>
 Kan du skrive en blog post på norsk basert på dette, du kan kutte ned en god del. Prøv å gjøre den morsom og spennende. Prøv å ha litt tydelige intensjoner, rød tråd og meninger. Generer figurer til og marker hvor de skal være.
 </i>
 </p>
+</div>
 
 [Her kan du lese det den skrev!]({% post_url 2025-31-03-menneskelig_KI_av_KI %}).
 Jeg må egentlig si at det ble overraskende bra, jeg prøvde å bruke det beste tilgjengelige, først "Deep research" for å finne bakgrunn også ChatGPT 4.5 for å skrive teksten.
