@@ -37,5 +37,5 @@ Bloggen henvender seg til alle som, til tross for det overraskende faktum at tem
 
 For inspirasjon har jeg latt meg påvirke av en rekke spennende blogger og stemmer i feltet – og hvis du er nysgjerrig på å se hva andre har å by på, finnes det absolutt flere interessante kilder der ute.
 
-Takk for at du tar deg tid til å stikke innom. Jeg håper du både lærer noe nytt og får deg en god latter på veien!
+Takk for at du tar deg tid til å stikke innom. Jeg håper du både lærer noe nytt og får deg til å tenke litt!
 
