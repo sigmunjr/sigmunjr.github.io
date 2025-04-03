@@ -26,4 +26,15 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Jeg er generelt interessert i det meste innen vitenskap, men jobber selv mest med maskinlæring for sensorfusjon og sensorprosessering.
+Hei, og velkommen til Maskinranting bloggen!
+
+Jeg har jobbet med maskinlæring i over 10 år og har en brennende interesse for vitenskap – spesielt de områdene jeg kjenner godt, som maskinlæring, kunstig intelligens, robotikk og datavitenskap. Her deler jeg mine tanker om alt som rører seg innen teknologi og vitenskap, alltid med forsøk på litt humor og en litt provoserende vri.
+
+Hvorfor skriver jeg? Fordi jeg mener at vitenskap og teknologi skal være tilgjengelig, spennende og utfordrende. Jeg ønsker å bryte ned komplekse konsepter til noe både underholdende og innsiktsfullt. Målet er at du som leser skal få en bedre forståelse av hvordan maskinlæring og kunstig intelligens faktisk fungerer – samtidig som jeg kanskje kan provosere litt.
+
+Bloggen henvender seg til alle som, til tross for det overraskende faktum at temaene kan være tekniske, faktisk er interessert i å lære mer. Jeg ønsker å skape en plattform hvor vi kan diskutere viktige spørsmål innen vitenskap og teknologi på en uformell og humoristisk måte.
+
+For inspirasjon har jeg latt meg påvirke av en rekke spennende blogger og stemmer i feltet – og hvis du er nysgjerrig på å se hva andre har å by på, finnes det absolutt flere interessante kilder der ute.
+
+Takk for at du tar deg tid til å stikke innom. Jeg håper du både lærer noe nytt og får deg en god latter på veien!
+
