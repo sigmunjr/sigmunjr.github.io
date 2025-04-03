@@ -32,6 +32,13 @@ Passasjerer setter seg inn i den første autonome kjøreturen i San Francisco. (
 
 Selv om bilene tøffer rundt på egenhånd betyr det ikke at de gjør alt selv. Det som er imponerende er at bilene nå klarer å identifisere situasjoner som er vanskelige og uvanlig. Hvis bilene blir usikre på hva de skal gjøre, stopper de og ringer om hjelp, omtrent som en usikker venn som trenger bekreftelse før han tør å kjøre videre. Da vil personer på en sentral gi bilen hint og retningslinjer for hvordan den skal kjøre. Dette gjør at bilene blir tryggere, men skaper også mye trafikkproblemer og frustrasjon blant både passasjerer og andre bilister.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/elpQPbJXpfY?si=8U7TgQ6QEIhmUM7L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<div class="caption">
+Waymo viser hvordan en operatør kan hjelpe bilen videre hvis den står fast. Hentet fra <a href="https://waymo.com/blog/2024/05/fleet-response/">Waymo bloggen</a>.
+</div>
+
 En studie fra Universitetet i København påpeker at mange av feilene skyldes misforståelser mellom bilene og andre trafikanter. Bilene er så forsiktige at de noen ganger skaper mer frustrasjon enn trygghet. Det er litt som å kjøre bak en overforsiktig bestemor – trygt, men også irriterende.
 
 ### **Hvordan språkmodeller hjelper selvkjørende biler**
