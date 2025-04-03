@@ -7,7 +7,7 @@ thumbnail: assets/img/blog/fisk_elefant.png
 tags: KI AGI
 categories: rant
 ---
-Mest for å illustrere at KI genererte blogg poster kan være kjedelige, så fikk jeg ChatGPT til å generere denne posten. 
+Mest for å illustrere at KI generert tekst fot blir kjedelig og flatt, så fikk jeg ChatGPT til å generere denne posten. 
 Jeg synes kanskje ikke poenget mitt kom veldig godt frem, men du kan jo dømme selv. Her er sånn jeg lagde posten:
 
 <p style="margin: 50px">
@@ -24,7 +24,9 @@ Kan du skrive en blog post på norsk basert på dette, du kan kutte ned en god d
 </i>
 </p>
 
-## Her begynner den generete teksten:
+## Her begynner den generete teksten (den har også generert tittelen over på denne posten):
+
+**Når AI blir til komisk dumskap**
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
@@ -39,19 +41,18 @@ Sam Altman fra OpenAI mener vi bare må gjøre modellene større, raskere og kra
   <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/blog/robot_sykler.png" title="More data, more compute!" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
-    KI CEOer er besatt av regnekraft og investorpenger. (Kilde: KI-generert bilde chatgpt 4o)
+«Når du har lest hele manualen, men fortsatt ikke skjønner hva balanse er. AI i et nøtteskall!»
     </div>
   </div>
 </div>
 
-**Når AI blir til komisk dumskap**
 
 
 **Sunn fornuft – ikke så veldig vanlig hos AI**
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
 <p>
-Hvis du spør et barn hva som skjer hvis du setter en isbit i sola, svarer det umiddelbart: «Den smelter\!». Spør du dagens toppmodeller som GPT-4, kan svaret variere fra det geniale til det komisk absurde, alt etter hva som finnes i treningsdataene. AI-en vet ikke hvorfor is smelter, den har bare lært at ordene «is», «sol» og «smelte» hører sammen. AI har altså imponerende evne til å etterligne, men null evne til å forstå.
+Hvis du spør et barn hva som skjer hvis du setter en isbit i sola, svarer det umiddelbart: «Den smelter!». Spør du dagens toppmodeller som GPT-4, kan svaret variere fra det geniale til det komisk absurde, alt etter hva som finnes i treningsdataene. AI-en vet ikke hvorfor is smelter, den har bare lært at ordene «is», «sol» og «smelte» hører sammen. AI har altså imponerende evne til å etterligne, men null evne til å forstå.
 </p>
 <p>
 Gary Marcus har sagt det klart: «AI har hukommelse som en elefant, men logikk som en gullfisk.» AI kan memorere enorme mengder tekst, men når den møter nye situasjoner, svikter den ofte fullstendig. En robot som kan lage pizza, vil kanskje bli helt rådvill om du plutselig ber den steke en pannekake – for den mangler forståelsen av hva den egentlig holder på med.
@@ -61,7 +62,7 @@ Gary Marcus har sagt det klart: «AI har hukommelse som en elefant, men logikk s
   <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/blog/fisk_elefant.png" title="More data, more compute!" class="img-fluid rounded z-depth-1" %}
     <div class="caption">
-    KI CEOer er besatt av regnekraft og investorpenger. (Kilde: KI-generert bilde chatgpt 4o)
+«Imponerende minne. Tragisk dømmekraft. Den kunstige intelligensens indre dyrepark.»
     </div>
   </div>
 </div>
