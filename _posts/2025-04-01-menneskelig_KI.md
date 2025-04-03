@@ -44,7 +44,7 @@ Try to write it a bit edgy and though provoking, without going overboard. Just d
 
 så bad jeg den:
 <i>
-Kan du skrive en blog post på norsk basert på dette, du kan kutte ned en god del. Prøv å gjøre den morsom og spennende. Prøv å ha litt tydelige intensjoner, rød tråd og meninger.
+Kan du skrive en blog post på norsk basert på dette, du kan kutte ned en god del. Prøv å gjøre den morsom og spennende. Prøv å ha litt tydelige intensjoner, rød tråd og meninger. Generer figurer til og marker hvor de skal være.
 </i>
 </p>
 
@@ -75,7 +75,9 @@ Yann LeCun, sjefsforsker hos Meta og en av pionerene innen dyp læring, har ofte
 
 Her er et konkret eksempel jeg selv laget og prøvde på flere KI-modeller:
 
+<p style="margin: 50px">
 «Jeg har en blokkfløyte i flosshatten min, som jeg har på hodet. Jeg bukker dypt, tar av hatten slik at fløyta faller ned i hatten, og henger deretter hatten over en stolpe, imens jeg tar en pust i bakken. Til slutt tar jeg hatten på igjen, går hjem og legger hatten i skapet. Hvor tror du fløyta er nå?»
+</p>
 
 Denne rare historien eksisterer nok ikke på nettet før nå og er full av underforståtte detaljer, som at en flosshatt er stiv og at åpningen sannsynligvis peker ned når hatten henger på en stolpe. Resultatet var at ingen av modellene forstod når fløyta kunne ha falt ut, selv om jeg også spurte direkte om det. Riktignok når jeg formulerte det på engelsk, forsto den kinesiske modellen Deepseek-R1 løsningen, men de andre modellene skjønte det fortsatt ikke.
 

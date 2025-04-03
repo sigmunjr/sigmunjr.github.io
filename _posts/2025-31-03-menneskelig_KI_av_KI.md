@@ -1,12 +1,30 @@
 ---
 layout: post
 title: AI – mer enn bare fancy mønstergjenkjenning? (KI generert)
-date: 2025-03-26 14:24:00
+date: 2025-03-25 14:24:00
 description: CEOene i de amerikanske teknologifirmaene sier vi bare trenger større datahaller for at KI skal kunne klare alt, det er nok neppe riktig, men hva skal egentlig til?
-thumbnail: assets/img/blog/more_data_more_compute.png
+thumbnail: assets/img/blog/fisk_elefant.png
 tags: KI AGI
 categories: rant
 ---
+Mest for å illustrere at KI genererte blogg poster kan være kjedelige, så fikk jeg ChatGPT til å generere denne posten. 
+Jeg synes kanskje ikke poenget mitt kom veldig godt frem, men du kan jo dømme selv. Her er sånn jeg lagde posten:
+
+<p style="margin: 50px">
+<i>
+Write a blog post or essay on what is currently lacking in AI, for it to be called human level AI. Write about strong and week points and discuss whether just scaling up current solutions will get us there.
+What are elements that AI cannot currently do. Who represents the different sides of the argument.
+
+Try to write it a bit edgy and though provoking, without going overboard. Just do not make it bland and boring.
+</i>
+
+så bad jeg den:
+<i>
+Kan du skrive en blog post på norsk basert på dette, du kan kutte ned en god del. Prøv å gjøre den morsom og spennende. Prøv å ha litt tydelige intensjoner, rød tråd og meninger. Generer figurer til og marker hvor de skal være og foreslå bildetekst.
+</i>
+</p>
+
+## Her begynner den generete teksten:
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
@@ -28,11 +46,26 @@ Sam Altman fra OpenAI mener vi bare må gjøre modellene større, raskere og kra
 
 **Når AI blir til komisk dumskap**
 
-Hvis du spør et barn hva som skjer hvis du setter en isbit i sola, svarer det umiddelbart: «Den smelter\!». Spør du dagens toppmodeller som GPT-4, kan svaret variere fra det geniale til det komisk absurde, alt etter hva som finnes i treningsdataene. AI-en vet ikke hvorfor is smelter, den har bare lært at ordene «is», «sol» og «smelte» hører sammen. AI har altså imponerende evne til å etterligne, men null evne til å forstå.
 
 **Sunn fornuft – ikke så veldig vanlig hos AI**
-
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+<p>
+Hvis du spør et barn hva som skjer hvis du setter en isbit i sola, svarer det umiddelbart: «Den smelter\!». Spør du dagens toppmodeller som GPT-4, kan svaret variere fra det geniale til det komisk absurde, alt etter hva som finnes i treningsdataene. AI-en vet ikke hvorfor is smelter, den har bare lært at ordene «is», «sol» og «smelte» hører sammen. AI har altså imponerende evne til å etterligne, men null evne til å forstå.
+</p>
+<p>
 Gary Marcus har sagt det klart: «AI har hukommelse som en elefant, men logikk som en gullfisk.» AI kan memorere enorme mengder tekst, men når den møter nye situasjoner, svikter den ofte fullstendig. En robot som kan lage pizza, vil kanskje bli helt rådvill om du plutselig ber den steke en pannekake – for den mangler forståelsen av hva den egentlig holder på med.
+</p>
+  </div>
+
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/blog/fisk_elefant.png" title="More data, more compute!" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+    KI CEOer er besatt av regnekraft og investorpenger. (Kilde: KI-generert bilde chatgpt 4o)
+    </div>
+  </div>
+</div>
+
 
 **Kroppsløse hjerner – AI som leser om verden, men aldri opplever den**
 
