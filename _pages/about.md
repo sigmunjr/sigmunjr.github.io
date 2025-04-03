@@ -1,6 +1,7 @@
 ---
 layout: about
-title: about
+title: om meg
+nav: true
 permalink: /about/
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
