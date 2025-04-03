@@ -10,7 +10,7 @@ categories: rant
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-Nesten hver uke hører vi fantastiske nyheter om kunstig intelligens (KI). Den vinner gull i matte-OL, skriver masteroppgaver på rekordtid, og programmerer bedre enn mange profesjonelle utviklere. Likevel skjønner de fleste som bruker disse verktøyene at KI fortsatt snubler i mange oppgaver som vi synes er enkle og nyhetene gjenspeiler ikke helt virkeligheten. Tiltross for felene har det blitt  vanskeligere å peke konkret på hva mennesker kan, som KI ikke klarer – bortsett fra det å operere i den virkelige verden. Hva er det som mangler før vi får KI på menneskelig nivå og vil det la seg gjøre?
+Nesten hver uke hører vi fantastiske nyheter om kunstig intelligens (KI). Den vinner gull i matte-OL, skriver masteroppgaver på rekordtid, og programmerer bedre enn mange profesjonelle utviklere. Likevel skjønner de fleste som bruker disse verktøyene at KI fortsatt snubler i mange oppgaver som vi synes er enkle og nyhetene gjenspeiler ikke helt virkeligheten. Til tross for feilene har det blitt vanskeligere å peke konkret på hva mennesker kan, som KI ikke klarer – bortsett fra det å operere i den virkelige verden. Hva er det som mangler før vi får KI på menneskelig nivå og vil det la seg gjøre?
   </div>
 
   <div class="col-sm mt-3 mt-md-0">
@@ -25,7 +25,7 @@ Nesten hver uke hører vi fantastiske nyheter om kunstig intelligens (KI). Den v
 
 Dagens store språkmodeller, som ChatGPT, Gemini og Claude, er svært flinke til én ting: å gjette hva neste ord i en tekst skal være. Det høres trivielt ut, men med nok data og avansert maskinvare har dette resultert i imponerende egenskaper. Modellene kan løse logiske oppgaver, generere historier eller dikt og finne informasjon lynraskt.
 
-Ilya Sutskever, en av grunnleggerne av firmaet OpenAI som står bak ChatGPT, har en fin forklaring på hvorfor dette skal kunne skape intelligens. Hvis en KI skal lese en krim bok og gjette neste ord i “derfor er morderen…”, må modellen forstå det meste i boken. En KI som er veldig god til å gjette nest ord må derfor være en smart modell.
+Ilya Sutskever, en av grunnleggerne av firmaet OpenAI som står bak ChatGPT, har en fin forklaring på hvorfor dette skal kunne skape intelligens. Hvis en KI skal lese en krim bok og gjette neste ord i “derfor er morderen…”, må modellen forstå det meste i boken. En KI som er veldig god til å gjette neste ord må derfor være en smart modell.
 
 Likevel, bak disse imponerende prestasjonene skjuler det seg et fundamentalt problem: **Modellene forstår ikke verden; de kjenner bare sannsynligheten for ord som passer sammen.** Når oppgaver beveger seg utenfor mønstre modellene allerede har lært, oppstår ofte problemer.
 
@@ -57,20 +57,43 @@ Kan du skrive en blog post på norsk basert på dette, du kan kutte ned en god d
 Jeg må egentlig si at det ble overraskende bra, jeg prøvde å bruke det beste tilgjengelige, først "Deep research" for å finne bakgrunn også ChatGPT 4.5 for å skrive teksten.
 Jeg mener at den tar litt feil på enkelte områder, spesielt med tanke på logikk og sunn fornuft.
 Jeg vet ikke hvor viktig det er at KI fakisk må vite hva "å falle" betyr, for at den skal være nyttig og jeg vet ikke om Sosial IQ faktisk handler om å føle noe, men å forstå hvordan andres følelser påvirker hvordan en burde interagere.
-Den største kritikken er kanskje at den "hoster opp" argumenter fra andre, e.g. Gary Marcus, uten å komme med noen ny vinkling.
+Den største kritikken er kanskje at den "hoster opp" argumenter fra andre, f.eks. Gary Marcus, uten å komme med noen ny vinkling.
 Dette gjelder jo kanskje mest hvis man allerede er dypt inne i litteraturen og allerede kan de kjente argumentene.
 
 ## **Slapp av, det er bare å skalere opp\!**
 
 Sam Altman, CEO i OpenAI, og mange av hans kolleger har et enkelt svar på hvordan vi skal få KI på nivå med mennesker: **Vi trenger bare å gjøre modellene større og kraftigere.** Dette perspektivet gir et klart veikart: mer data, flere parametere, mer beregningskraft \= smartere modeller. Denne «skaleringshypotesen» er enkel å forstå og, viktigst av alt, attraktiv for investorer fordi den antyder en lineær og forutsigbar utvikling. Men virkeligheten er sjelden så enkel.
 
-I mine øyne er denne hypotesen allerede erklært fallit. Større modeller har blitt laget, og forbedringene har kun vært marginale. Ved hjelp av store endringer i modell arkitektur, trening og bruk derimot har man sett store forbedringer. Historisk har utviklingen vært preget av uforutsigbare gjennombrudd, ikke jevne fremskritt. KI har hatt store hopp i evner med små tekniske endringer – ikke bare ved å bli større. Modellene blir ikke lenger trent bare til å forutsi neste ord, og nå er det nærmest umulig å tenke seg at man kunne fått like bra ytelse kun ved det.
+<div class="row">
+<div class="col-sm-12">
+<img src="/assets/img/blog/scaling_laws.png" style="width: 100%">
+<div class="caption">
+Plot fra en OpenAI artikkelen <a href="https://arxiv.org/pdf/2001.08361">"Scaling Laws for Language Models" (2020)</a> som viser hvordan ytelsen forbedres med mer data og mere regnekraft.
+</div>
+</div>
+</div>
+
+I mine øyne er denne hypotesen allerede erklært fallit. Større modeller har blitt laget, og forbedringene har kun vært marginale.
+Selv om "loven" OpenAI fant fortsatt kanskje holder, virker det ikke så sikkert at **enda** bedre prediksjon av neste ord, faktisk resulterer i modeller som er mer nyttige eller mer menneskelignende.
+En del ord på internett vil ikke være overraskende på grunn intrikate mordgåter, men heller fete pølsefingre og katter på tastaturet.
+
+Ved hjelp av store endringer i modell arkitektur, trening og bruk derimot har man sett store forbedringer.
+Historisk har utviklingen vært preget av uforutsigbare gjennombrudd, ikke jevne fremskritt. KI har hatt store hopp i evner med små tekniske endringer – ikke bare ved å bli større. Modellene blir ikke lenger trent bare til å forutsi neste ord, og nå er det nærmest umulig å tenke seg at man kunne fått like bra ytelse kun ved det.
 
 For eksempel var det overraskende at språkmodeller plutselig kunne resonnere bedre med enkle teknikker som å be den “tenke steg for steg”, uten store endringer i modellens arkitektur. Dette var ikke noe som kunne vært forutsagt bare ved å skalere opp. Spørsmålet blir da, er det store eller små endringer som skal til?
 
 ## **KI kan mer enn å memorere**
 
 En viktig endring den siste tiden har vært såkalte resonneringsmodeller, som kan gi mye bedre svar på vanskelige oppgaver. Etter den normale treningen med å forutsi neste ord, så blir modellene trent på konkrete oppgaver med entydige svar. Modellen kan da skrive så mye tekst den vil innenfor \<tenke\> symbolene, men så må den gi eksakt riktig svar. Dette har gitt modelle muligheten til å prøve seg frem med løsninger uten å bli “straffet” underveis for å tenke feil.
+
+<div class="row">
+<div class="col-sm-12">
+<img src="/assets/img/blog/arc-task-grids.jpg" style="width:100%">
+<div class="caption">
+Et eksempel på en oppgave i ARC-AGI, som minner litt om en IQ-test. (Kilde: [ARK-AGI)(https://arcprize.org/arc-agi))
+</div>
+</div>
+</div>
 
 En vanlig kritik mot KI modeller er at de kun memorerer svar fra det store internett. Dette er tilbakevist flere ganger og spesielt med disse nye resonneringsmodeller. [ARC-AGI](https://arcprize.org/) testen er laget for å teste evnen til å løse helt nye oppgaver og fungerer omtrent som en IQ-test. Disse ble laget spesielt med memorisering i tankene, og oppgavene holdes skjult helt til modellene blir testet. Ved å bruke resonneringsmodellene har man gått fra å klare 4.5% av disse oppgavene i fjor sommer, til 75% i dag. Så det er nå klart at KI kan mer enn bare å memorisere og kan faktisk løse avanserte oppgaver.
 
@@ -98,13 +121,13 @@ Menneskelig intelligens innebærer å sette egne mål, planlegge langsiktig, og 
 
 ## **Evnen til kontinuerlig læring – den store flaskehalsen**
 
-En annen grunnleggende forskjell mellom KI og mennesker er måten vi lærer på. Dagens KI-modeller blir trent én gang på enorme datasett, og etter det er de «låst». De kan ikke enkelt lære ny informasjon uten å risikere å ødelegge gammel kunnskap, et fenomen kalt «katastrofal glemming».
+En annen grunnleggende forskjell mellom KI og mennesker er måten vi lærer på. Dagens KI-modeller blir trent én gang på enorme datasett, og etter det er de «låst». De kan ikke enkelt lære ny informasjon uten å risikere å ødelegge gammel kunnskap, et fenomen kalt [«katastrofal glemming»](https://arxiv.org/html/2403.05175v1).
 
 Det er pågående forskning på dette problemet, både gjennom eksterne minnemoduler og mer robuste treningsmetoder. Men fremgangen har vært treg, og dette representerer kanskje det største hinderet for å oppnå en intelligens som kan konkurrere med menneskers evne til læring.
 
 ## **Det er umulig å forutsi når (eller om) KI når menneskelig nivå**
 
-Det som kjennetegner KI-utviklingen frem til nå, er nettopp dens uforutsigbarhet. Det blir nok ingen jevn fremgang bare ved å skalere modellene, slik Sam Altman og andre tech-ledere gjerne fremstiller det. Det må også sies at fremgange i over 10 år har overgått mine og mange andres forventninger, og det kastes mere penger på det nå enn noen gang før.
+Det som kjennetegner KI-utviklingen frem til nå, er nettopp dens uforutsigbarhet. Det blir nok ingen jevn fremgang bare ved å skalere modellene, slik Sam Altman og andre tech-ledere gjerne fremstiller det. Det må også sies at fremgangen i over 10 år har overgått mine og mange andres forventninger, og det kastes mere penger på det nå enn noen gang før.
 
 I virkeligheten er det svært sannsynlig at vi må ha flere store, uventede gjennombrudd før KI virkelig kan sammenlignes med menneskelig intelligens. Dette kan innebære radikale endringer i hvordan vi designer og trener modeller – endringer vi enda ikke vet hva innebærer.
 
