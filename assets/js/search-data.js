@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/index.html";
           },
-        },{id: "post-selvkjørende-biler-fra-hype-til-virkelighet-snart-i-norge",
+        },{id: "post-ai-mer-enn-bare-fancy-mønstergjenkjenning-ki-generert",
+        
+          title: "AI – mer enn bare fancy mønstergjenkjenning? (KI generert)",
+        
+        description: "CEOene i de amerikanske teknologifirmaene sier vi bare trenger større datahaller for at KI skal kunne klare alt, det er nok neppe riktig, men hva skal egentlig til?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/menneskelig_KI_av_KI/";
+          
+        },
+      },{id: "post-selvkjørende-biler-fra-hype-til-virkelighet-snart-i-norge",
         
           title: "Selvkjørende biler – Fra hype til virkelighet, snart i Norge?",
         
