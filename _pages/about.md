@@ -27,7 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hei, og velkommen til Maskinranting bloggen!
+Hei, og velkommen til Maskinrant bloggen!
 
 Jeg har jobbet med maskinlæring i over 10 år og har en brennende interesse for vitenskap – spesielt de områdene jeg kjenner godt, som maskinlæring, kunstig intelligens, robotikk og datavitenskap. Her deler jeg mine tanker om alt som rører seg innen teknologi og vitenskap, alltid med forsøk på litt humor og en litt provoserende vri.
 
